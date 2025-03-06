@@ -20,7 +20,8 @@
   <a href="https://buymeacoffee.com/nishant.iyer"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="/assets/coffee.png"/></a>
 
 <br/>
-
+![Stats](https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&title_color=0071BC&text_color=333&icon_color=0071BC&bg_color=ffffff)
+<br/>
 👋&#8287;Hello Guys!
 
 <p>     I am currently a Data Analytics Consultant at Temple University’s Center City Campus, where I lead initiatives to transform complex datasets into actionable insights and scalable solutions. With an MS in Business Analytics and a strong foundation in machine learning, statistical modeling, and strategic decision-making, I specialize in bridging technical innovation and business impact.</p>
