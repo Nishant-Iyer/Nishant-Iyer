@@ -9,30 +9,13 @@
 
 <!-- Dynamic Social Icons -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/assets/linkedin.png">
-    <source media="(prefers-color-scheme: light)" srcset="/assets/dark_linkedin.png">
-    <a href="https://www.linkedin.com/in/nishantiyer/"><img width="32px" alt="LinkedIn" title="LinkedIn"></a>
-  </picture>
+  <a href="https://www.linkedin.com/in/nishantiyer/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="/assets/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/assets/X.png">
-    <source media="(prefers-color-scheme: light)" srcset="/assets/dark_X.png">
-    <a href="https://x.com/NishantGIyer"><img width="32px" alt="X" title="X"></a>
-  </picture>
+  <a href="https://x.com/NishantGIyer"><img width="32px" alt="X" title="X" src="/assets/x.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/assets/portfolio.png">
-    <source media="(prefers-color-scheme: light)" srcset="/assets/dark_portfolio.png">
-    <a href="https://nishant-iyer.github.io/"><img width="32px" alt="Portfolio" title="Portfolio"></a>
-  </picture>
+  <a href="https://nishant-iyer.github.io/"><img width="32px" alt="Portfolio" title="Portfolio" src="/assets/portfolio.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/assets/Coffee.png">
-    <source media="(prefers-color-scheme: light)" srcset="/assets/dark_coffee.png">
-    <a href="https://buymeacoffee.com/nishant.iyer"><img width="32px" alt="Buy me a coffee" title="Buy me a coffee"></a>
-  </picture>
-</p>
+  <a href="https://buymeacoffee.com/nishant.iyer"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="/assets/coffee.png"/></a>
 
 <br/>
 
