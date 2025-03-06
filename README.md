@@ -20,7 +20,7 @@
   <a href="https://buymeacoffee.com/nishant.iyer"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="/assets/coffee.png"/></a>
 
 <br/>
-![Stats](https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&title_color=0071BC&text_color=333&icon_color=0071BC&bg_color=ffffff)
+https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&title_color=0071BC&text_color=333&icon_color=0071BC&bg_color=ffffff
 <br/>
 👋&#8287;Hello Guys!
 
