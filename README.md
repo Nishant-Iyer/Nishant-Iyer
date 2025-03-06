@@ -11,6 +11,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://nishant-iyer.github.io/"><img width="32px" alt="Portfolio" title="Portfolio" src="/assets/Portfolio.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://buymeacoffee.com/nishant.iyer"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="/assets/Coffee.png"/></a>
+  <a href="https://buymeacoffee.com/nishant.iyer"><img width="32px" alt="Buy me a coffee" title="Buy me a coffee" src="/assets/Coffee.png"/></a>
 
 <br/>
