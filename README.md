@@ -31,5 +31,9 @@
 
 <br/>
 
-![Nishant-Iyer's Stats](https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Nishant-Iyer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Iyer&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <a href="https://github.com/Nishant-Iyer">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Iyer&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  </a>
+</div>
