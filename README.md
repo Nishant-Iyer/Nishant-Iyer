@@ -9,7 +9,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/NishantGIyer"><img width="32px" alt="X" title="X" src="/assets/X.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://nishant-iyer.github.io/"><img width="32px" alt="Portfolio" title="Portfolio" src="/assets/Portfolio.png"></a>
+  <a href="https://nishant-iyer.github.io/"><img width="32px" alt="Portfolio" title="Portfolio" src="/assets/portfolio.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://buymeacoffee.com/nishant.iyer"><img width="32px" alt="Buy me a coffee" title="Buy me a coffee" src="/assets/Coffee.png"/></a>
 
