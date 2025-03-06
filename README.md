@@ -40,22 +40,16 @@ I'm currently:
 ---
 <br/>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; padding: 20px; border-radius: 10px;">
+<div align="center">
   <picture>
     <!-- Dark Mode -->
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&title_color=ffffff&text_color=e5e5e5&icon_color=0071BC&bg_color=00000000&hide_border=true"
-    >
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=0071BC&hide_border=true">
     <!-- Light Mode -->
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&title_color=0071BC&text_color=333&icon_color=0071BC&bg_color=00000000&hide_border=true"
-    >
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&theme=transparent&title_color=0071BC&text_color=2D3748&icon_color=0071BC&hide_border=true">
     <!-- Fallback -->
-    <img 
-      alt="Nishant's GitHub Stats" 
-      src="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&title_color=0071BC&text_color=333&icon_color=0071BC&bg_color=00000000&hide_border=true"
-    >
+    <img alt="Nishant's GitHub Stats" 
+         src="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&theme=transparent&title_color=0071BC&text_color=2D3748&icon_color=0071BC&hide_border=true">
   </picture>
 </div>
