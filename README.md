@@ -30,4 +30,7 @@
 <p>     I am Committed to advancing enterprise innovation, I thrive at the intersection of strategy and technology. My mission: to build adaptive, future-ready solutions that solve today’s challenges while anticipating tomorrow’s opportunities.</p>
 
 <br/>
+
 ![Nishant-Iyer's Stats](https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Nishant-Iyer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishant-Iyer&theme=vue-dark&hide_border=true)
+![Nishant-Iyer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Iyer&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
