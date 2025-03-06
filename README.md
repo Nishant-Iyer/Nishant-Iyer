@@ -19,12 +19,12 @@
 
 <br/>
 
-👋&#8287;Hello!
+👋&#8287;Hello Guys!
 
-<p>Data Analytics Consultant at Temple University’s Center City Campus, where I lead initiatives to transform complex datasets into actionable insights and scalable solutions. With an MS in Business Analytics and a strong foundation in machine learning, statistical modeling, and strategic decision-making, I specialize in bridging technical innovation and business impact.</p>
+<p>     I am currently a Data Analytics Consultant at Temple University’s Center City Campus, where I lead initiatives to transform complex datasets into actionable insights and scalable solutions. With an MS in Business Analytics and a strong foundation in machine learning, statistical modeling, and strategic decision-making, I specialize in bridging technical innovation and business impact.</p>
 
-<p>Previously, as a Product Analytics Consultant at Unilever, I directed cross-functional teams to design proprietary anomaly detection algorithms and predictive financial models, enhancing forecasting accuracy by 30% and empowering data-driven fiscal planning for global stakeholders. This role honed my ability to translate technical complexity into strategic outcomes, aligning C-suite objectives with operational execution.</p>
+<p>     Previously, as a Product Analytics Consultant at Unilever, I directed cross-functional teams to design proprietary anomaly detection algorithms and predictive financial models, enhancing forecasting accuracy by 30% and empowering data-driven fiscal planning for global stakeholders. This role honed my ability to translate technical complexity into strategic outcomes, aligning C-suite objectives with operational execution.</p>
 
-<p>My journey began in biotechnology engineering, where a data-focused dissertation ignited my passion for coding and analytical problem-solving. This unique blend of technical rigor and business acumen has driven my success across Fortune 500 organizations, including Unilever and GroupM (client servicing for Colgate-Palmolive). I excel at architecting automation pipelines, AI-driven tools, and large-scale data ecosystems to optimize supply chains, decode consumer behavior, and unlock financial intelligence.</p>
+<p>     My journey began in biotechnology engineering, where a data-focused dissertation ignited my passion for coding and analytical problem-solving. This unique blend of technical rigor and business acumen has driven my success across Fortune 500 organizations, including Unilever and GroupM (client servicing for Colgate-Palmolive). I excel at architecting automation pipelines, AI-driven tools, and large-scale data ecosystems to optimize supply chains, decode consumer behavior, and unlock financial intelligence.</p>
 
-<p>Committed to advancing enterprise innovation, I thrive at the intersection of strategy and technology. My mission: to build adaptive, future-ready solutions that solve today’s challenges while anticipating tomorrow’s opportunities.</p>
+<p>     I am Committed to advancing enterprise innovation, I thrive at the intersection of strategy and technology. My mission: to build adaptive, future-ready solutions that solve today’s challenges while anticipating tomorrow’s opportunities.</p>
