@@ -15,6 +15,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://nishant-iyer.github.io/"><img width="32px" alt="Portfolio" title="Portfolio" src="/assets/portfolio.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.kaggle.com/nustanishant"><img width="32px" alt="Kaggle" title="Kaggle" src="/assets/kaggle.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://buymeacoffee.com/nishant.iyer"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="/assets/coffee.png"/></a>
 
 <br/>
@@ -28,12 +30,21 @@
 <p>     My journey began in biotechnology engineering, where a data-focused dissertation ignited my passion for coding and analytical problem-solving. This unique blend of technical rigor and business acumen has driven my success across Fortune 500 organizations, including Unilever and GroupM (client servicing for Colgate-Palmolive). I excel at architecting automation pipelines, AI-driven tools, and large-scale data ecosystems to optimize supply chains, decode consumer behavior, and unlock financial intelligence.</p>
 
 <p>     I am Committed to advancing enterprise innovation, I thrive at the intersection of strategy and technology. My mission: to build adaptive, future-ready solutions that solve today’s challenges while anticipating tomorrow’s opportunities.</p>
-
 <br/>
+
+---
+I'm currently:
+- 👩‍💻 Working on Machine Learning projects
+- 🌱 Sharpening my Deep Learning skill set
+- 👯 Looking to collaborate on Kaggle competitions
+---
+<br/>
+
+
 
 <div align="center">
   <a href="https://github.com/Nishant-Iyer">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Iyer&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Iyer&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
   </a>
 </div>
