@@ -7,11 +7,11 @@
   </picture>
 </p>
 
-<!-- Dynamic Social Icons -->
+<!-- Social Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/nishantiyer/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="/assets/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/NishantGIyer"><img width="32px" alt="X" title="X" src="/assets/x.png"/></a>
+  <a href="https://x.com/NishantGIyer"><img width="32px" alt="X" title="X" src="/assets/X.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://nishant-iyer.github.io/"><img width="32px" alt="Portfolio" title="Portfolio" src="/assets/portfolio.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
