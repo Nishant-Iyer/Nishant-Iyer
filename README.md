@@ -40,11 +40,11 @@ I'm currently:
 ---
 <br/>
 
-
-
-<div align="center">
-  <a href="https://github.com/Nishant-Iyer">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Iyer&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-  </a>
+<!-- Stats Cards with Custom Background -->
+<div align="center" style="display: flex; justify-content: center; gap: 10px; background-color: #0071BC; padding: 20px; border-radius: 10px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&theme=dark&bg_color=0071BC&title_color=ffffff&text_color=ffffff&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&theme=default&bg_color=0071BC&title_color=000000&text_color=000000&hide_border=true&count_private=true">
+    <img alt="Nishant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&bg_color=0071BC&hide_border=true&count_private=true">
+  </picture>
 </div>
