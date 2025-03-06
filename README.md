@@ -40,11 +40,22 @@ I'm currently:
 ---
 <br/>
 
-<!-- Stats Cards with Custom Background -->
-<div align="center" style="display: flex; justify-content: center; gap: 10px; background-color: #0071BC; padding: 20px; border-radius: 10px;">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; padding: 20px; border-radius: 10px;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&title_color=0071BC&text_color=333&icon_color=0071BC&bg_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&title_color=0071BC&text_color=333&icon_color=0071BC&bg_color=ffffff">
-    <img alt="Nishant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&title_color=0071BC&text_color=333&icon_color=0071BC&bg_color=ffffff">
+    <!-- Dark Mode -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&title_color=ffffff&text_color=e5e5e5&icon_color=0071BC&bg_color=00000000&hide_border=true"
+    >
+    <!-- Light Mode -->
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&title_color=0071BC&text_color=333&icon_color=0071BC&bg_color=00000000&hide_border=true"
+    >
+    <!-- Fallback -->
+    <img 
+      alt="Nishant's GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&title_color=0071BC&text_color=333&icon_color=0071BC&bg_color=00000000&hide_border=true"
+    >
   </picture>
 </div>
