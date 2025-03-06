@@ -44,7 +44,7 @@ I'm currently:
 <div align="center" style="display: flex; justify-content: center; gap: 10px; background-color: #0071BC; padding: 20px; border-radius: 10px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&theme=dark&bg_color=0071BC&title_color=ffffff&text_color=ffffff&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&theme=default&bg_color=0071BC&title_color=000000&text_color=000000&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&theme=default&bg_color=0071BC&title_color=ffffff&text_color=ffffff&hide_border=true&count_private=true">
     <img alt="Nishant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&bg_color=0071BC&hide_border=true&count_private=true">
   </picture>
 </div>
