@@ -39,17 +39,3 @@ I'm currently:
 - 👯 Looking to collaborate on Kaggle competitions
 ---
 <br/>
-
-<div align="center">
-  <picture>
-    <!-- Dark Mode -->
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=0071BC&hide_border=true">
-    <!-- Light Mode -->
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&theme=transparent&title_color=0071BC&text_color=2D3748&icon_color=0071BC&hide_border=true">
-    <!-- Fallback -->
-    <img alt="Nishant's GitHub Stats" 
-         src="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&theme=transparent&title_color=0071BC&text_color=2D3748&icon_color=0071BC&hide_border=true">
-  </picture>
-</div>
