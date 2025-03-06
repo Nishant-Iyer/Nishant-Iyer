@@ -28,3 +28,6 @@
 <p>     My journey began in biotechnology engineering, where a data-focused dissertation ignited my passion for coding and analytical problem-solving. This unique blend of technical rigor and business acumen has driven my success across Fortune 500 organizations, including Unilever and GroupM (client servicing for Colgate-Palmolive). I excel at architecting automation pipelines, AI-driven tools, and large-scale data ecosystems to optimize supply chains, decode consumer behavior, and unlock financial intelligence.</p>
 
 <p>     I am Committed to advancing enterprise innovation, I thrive at the intersection of strategy and technology. My mission: to build adaptive, future-ready solutions that solve today’s challenges while anticipating tomorrow’s opportunities.</p>
+
+<br/>
+![Nishant-Iyer's Stats](https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
