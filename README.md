@@ -20,8 +20,7 @@
   <a href="https://buymeacoffee.com/nishant.iyer"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="/assets/coffee.png"/></a>
 
 <br/>
-https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&title_color=0071BC&text_color=333&icon_color=0071BC&bg_color=ffffff
-<br/>
+
 👋&#8287;Hello Guys!
 
 <p>     I am currently a Data Analytics Consultant at Temple University’s Center City Campus, where I lead initiatives to transform complex datasets into actionable insights and scalable solutions. With an MS in Business Analytics and a strong foundation in machine learning, statistical modeling, and strategic decision-making, I specialize in bridging technical innovation and business impact.</p>
@@ -44,8 +43,8 @@ I'm currently:
 <!-- Stats Cards with Custom Background -->
 <div align="center" style="display: flex; justify-content: center; gap: 10px; background-color: #0071BC; padding: 20px; border-radius: 10px;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&theme=dark&bg_color=0071BC&title_color=ffffff&text_color=ffffff&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&theme=default&bg_color=0071BC&title_color=ffffff&text_color=ffffff&hide_border=true&count_private=true">
-    <img alt="Nishant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&bg_color=0071BC&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&title_color=0071BC&text_color=333&icon_color=0071BC&bg_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&title_color=0071BC&text_color=333&icon_color=0071BC&bg_color=ffffff">
+    <img alt="Nishant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&hide=contribs,issues&title_color=0071BC&text_color=333&icon_color=0071BC&bg_color=ffffff">
   </picture>
 </div>
