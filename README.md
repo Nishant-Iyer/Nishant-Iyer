@@ -23,7 +23,7 @@
 
 👋&#8287;Hello Guys!
 
-<p>     I am currently a Data Analytics Consultant at Temple University’s Center City Campus, where I lead initiatives to transform complex datasets into actionable insights and scalable solutions. With an MS in Business Analytics and a strong foundation in machine learning, statistical modeling, and strategic decision-making, I specialize in bridging technical innovation and business impact.</p>
+<p>     I am currently a Sr. Data Analyst @ Capital One, where I lead initiatives to transform complex datasets into actionable insights and scalable solutions. With an MS in Business Analytics and a strong foundation in machine learning, statistical modeling, and strategic decision-making, I specialize in bridging technical innovation and business impact.</p>
 
 <p>     Previously, as a Product Analytics Consultant at Unilever, I directed cross-functional teams to design proprietary anomaly detection algorithms and predictive financial models, enhancing forecasting accuracy by 30% and empowering data-driven fiscal planning for global stakeholders. This role honed my ability to translate technical complexity into strategic outcomes, aligning C-suite objectives with operational execution.</p>
 
