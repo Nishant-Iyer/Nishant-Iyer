@@ -9,13 +9,13 @@
 
 <!-- Social Icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/nishantiyer/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="/assets/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/nishantiyer/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="assets/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://nishant-iyer.github.io/"><img width="32px" alt="Portfolio" title="Portfolio" src="/assets/portfolio.png"></a>
+  <a href="https://www.konnectingnots.com"><img width="32px" alt="Portfolio" title="Portfolio" src="assets/portfolio.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.kaggle.com/nustanishant"><img width="32px" alt="Kaggle" title="Kaggle" src="/assets/kaggle.png"></a>
+  <a href="https://www.kaggle.com/nustanishant"><img width="32px" alt="Kaggle" title="Kaggle" src="assets/kaggle.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://buymeacoffee.com/nishant.iyer"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="/assets/coffee.png"/></a>
+  <a href="https://buymeacoffee.com/nishant.iyer"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="assets/coffee.png"/></a>
 
 <br/>
 
