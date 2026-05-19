@@ -49,5 +49,5 @@ I'm currently:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📊 GitHub Stats
-[![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant-Iyer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Iyer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Nishant's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishant-Iyer&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nishant-Iyer&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
