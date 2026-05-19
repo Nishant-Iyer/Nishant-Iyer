@@ -1,14 +1,4 @@
 <div align="center">
-  <!-- Custom Tech Banner -->
-  <img src="assets/github_banner.png" width="100%" alt="Nishant Iyer - Tech Banner" style="border-radius: 10px; margin-bottom: 20px;" />
-
-  <!-- Dynamic Typing Title -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=00D2FF&width=550&lines=Data+Analyst;Bridging+Bytes+%26+Business">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=0071BC&width=550&lines=Data+Analyst;Bridging+Bytes+%26+Business">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&width=550&lines=Data+Analyst;Bridging+Bytes+%26+Business" alt="Typing SVG">
-  </picture>
-
   <!-- Modern Badges Row -->
   <p align="center" style="margin-top: 15px;">
     <a href="https://www.linkedin.com/in/nishantiyer/"><img src="assets/linkedin.png" width="32px" alt="LinkedIn" title="LinkedIn" style="margin: 0 5px;" /></a>
