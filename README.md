@@ -4,9 +4,9 @@
 
   <!-- Dynamic Typing Title -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=00D2FF&width=550&lines=Data+Analyst+%26+BI+Specialist;Data+Alchemist;Bridging+Bytes+%26+Business">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=0071BC&width=550&lines=Data+Analyst+%26+BI+Specialist;Data+Alchemist;Bridging+Bytes+%26+Business">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&width=550&lines=Data+Analyst+%26+BI+Specialist;Data+Alchemist;Bridging+Bytes+%26+Business" alt="Typing SVG">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=00D2FF&width=550&lines=Data+Analyst;Bridging+Bytes+%26+Business">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=0071BC&width=550&lines=Data+Analyst;Bridging+Bytes+%26+Business">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&width=550&lines=Data+Analyst;Bridging+Bytes+%26+Business" alt="Typing SVG">
   </picture>
 
   <!-- Modern Badges Row -->
