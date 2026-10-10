@@ -22,11 +22,11 @@ On the side I build end-to-end ML projects: real data, an honest evaluation, and
 
 | Project | What it does | Result |
 |---|---|---|
-| [Credit card fraud detection](https://github.com/Nishant-Iyer/Credit-Card-Fraud-Detection) | Stacking ensemble with an autoencoder anomaly signal, tuned to minimize business cost instead of maximize accuracy | **−75.8%** fraud cost vs. no model · [demo](https://credit-card-fraud-detection-rvtygaztzdva8ecohigihs.streamlit.app) |
-| [Wellbore geology prediction](https://github.com/Nishant-Iyer/Rogii-Wellbore-Geology-Prediction) | Kaggle: geology-constrained Viterbi path matching to predict rock-layer depth along horizontal wells | **11.08 ft** RMSE on unseen wells · [demo](https://rogii-wellbore-geology-prediction-u9ejzh9ghvs8cdmnftsajc.streamlit.app) |
-| [Global distribution center placement](https://github.com/Nishant-Iyer/Global-Distribution-Optimization-Center) | Chooses warehouse locations worldwide with MILP, K-Medoids and spherical gradient descent, on a 3D globe | **47,000+** cities, 4 solvers · [demo](https://global-distribution-optimization-center-wudamnacmixpl2i56vb36j.streamlit.app) |
-| [NFL betting market analysis](https://github.com/Nishant-Iyer/NFL-Gambling-Market-Analysis) | Tests whether Over/Under lines can be beaten using weather, travel and team-form features with walk-forward backtesting | **11,000+** games · [demo](https://nfl-gambling-market-analysis-nrtofnwx4xqxvpqj7mcvlj.streamlit.app) |
-| [Bellion](https://github.com/Nishant-Iyer/OpenClaw-Bellion) | Private AI finance agent: daily briefings, budget checks and WhatsApp access, all running locally | **100% local** data |
+| [Credit card fraud detection](https://github.com/Nishant-Iyer/Credit-Card-Fraud-Detection) | Stacking ensemble with an autoencoder anomaly signal, tuned to minimize business cost instead of maximize accuracy | **−75%** fraud cost vs. no model · [demo](https://www.konnectingnots.com/demos/fraud.html) |
+| [Wellbore geology prediction](https://github.com/Nishant-Iyer/Rogii-Wellbore-Geology-Prediction) | Kaggle: geology-constrained Viterbi path matching to predict rock-layer depth along horizontal wells | **12.4 ft** RMSE on held-out wells, 37% below baseline · [demo](https://www.konnectingnots.com/demos/wellbore.html) |
+| [Global distribution center placement](https://github.com/Nishant-Iyer/Global-Distribution-Optimization-Center) | Chooses warehouse locations worldwide with MILP, K-Medoids and spherical gradient descent, on a 3D globe | **1,000** cities in 129 countries · [demo](https://www.konnectingnots.com/demos/distribution.html) |
+| [NFL betting market analysis](https://github.com/Nishant-Iyer/NFL-Gambling-Market-Analysis) | Tests whether Over/Under lines can be beaten using weather, travel and team-form features with walk-forward backtesting | **55%** win rate on 1,317 out-of-sample bets · [demo](https://www.konnectingnots.com/demos/nfl.html) |
+| [Bellion](https://github.com/Nishant-Iyer/OpenClaw-Bellion) | Private AI finance agent: daily briefings, budget checks and Q&A over Telegram, with the model running on my own machine | **On-device** model, AES-256 memory |
 
 Write-ups for the first two are on my [portfolio](https://www.konnectingnots.com/#projects).
 
