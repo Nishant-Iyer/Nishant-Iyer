@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=2DD4F5&center=true&vCenter=true&width=600&lines=Senior+Data+Analyst+%40+Capital+One;Bridging+Bytes+%26+Business">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=0089B0&center=true&vCenter=true&width=600&lines=Senior+Data+Analyst+%40+Capital+One;Bridging+Bytes+%26+Business">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&center=true&vCenter=true&width=600&lines=Senior+Data+Analyst+%40+Capital+One;Bridging+Bytes+%26+Business" alt="Senior Data Analyst at Capital One. Bridging Bytes and Business.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+    <img src="assets/header-dark.svg" width="100%" alt="Nishant Iyer, Senior Data Analyst at Capital One. Bridging bytes and business.">
   </picture>
 
   <p>
