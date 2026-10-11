@@ -22,13 +22,14 @@ On the side I build end-to-end ML projects: real data, an honest evaluation, and
 
 | Project | What it does | Result |
 |---|---|---|
-| [Credit card fraud detection](https://github.com/Nishant-Iyer/Credit-Card-Fraud-Detection) | Stacking ensemble with an autoencoder anomaly signal, tuned to minimize business cost instead of maximize accuracy | **−75%** fraud cost vs. no model · [demo](https://www.konnectingnots.com/demos/fraud.html) |
+| [Credit card fraud detection](https://github.com/Nishant-Iyer/Credit-Card-Fraud-Detection) | Stacking ensemble with an autoencoder anomaly signal, with the alert threshold set to minimize business cost rather than maximize accuracy | **−75%** fraud cost vs. no model · [demo](https://www.konnectingnots.com/demos/fraud.html) |
+| [Airline satisfaction prediction](https://github.com/Nishant-Iyer/Airline-Satisfaction-Prediction) | Kaggle: LightGBM, XGBoost and CatBoost blend with route-level features, fold-safe target encoding and a model trained on the original survey | **0.9604** AUC, up 348 leaderboard places from v1 |
 | [Wellbore geology prediction](https://github.com/Nishant-Iyer/Rogii-Wellbore-Geology-Prediction) | Kaggle: geology-constrained Viterbi path matching to predict rock-layer depth along horizontal wells | **12.4 ft** RMSE on held-out wells, 37% below baseline · [demo](https://www.konnectingnots.com/demos/wellbore.html) |
-| [Global distribution center placement](https://github.com/Nishant-Iyer/Global-Distribution-Optimization-Center) | Chooses warehouse locations worldwide by road and sea distance, with capacity limits and running costs, using K-Medoids and a seeded MILP | **1,000** cities in 129 countries · [demo](https://www.konnectingnots.com/demos/distribution.html) |
+| [Global distribution center placement](https://github.com/Nishant-Iyer/Global-Distribution-Optimization-Center) | Chooses warehouse sites worldwide by road and sea distance, with capacity limits and running costs, using K-Medoids and a seeded MILP | **1,000** cities in 129 countries · [demo](https://www.konnectingnots.com/demos/distribution.html) |
 | [NFL betting market analysis](https://github.com/Nishant-Iyer/NFL-Gambling-Market-Analysis) | Tests whether Over/Under lines can be beaten using weather, travel and team-form features with walk-forward backtesting | **55%** win rate on 1,317 out-of-sample bets · [demo](https://www.konnectingnots.com/demos/nfl.html) |
-| [Bellion](https://github.com/Nishant-Iyer/OpenClaw-Bellion) | Private AI finance agent: daily briefings, budget checks and Q&A over Telegram, with the model running on my own machine | **On-device** model, AES-256 memory |
+| [Bellion](https://github.com/Nishant-Iyer/OpenClaw-Bellion) | Private AI finance agent: daily briefings, budget checks and Q&A over Telegram, with the model running on my own machine | **On-device** model, AES-256 encrypted memory |
 
-Write-ups for the first two are on my [portfolio](https://www.konnectingnots.com/#projects).
+Each project has a full case study on my [portfolio](https://www.konnectingnots.com/#projects), and my competition work is on [Kaggle](https://www.kaggle.com/nustanishant).
 
 ## Tools
 
