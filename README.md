@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-    <img src="assets/header-dark.svg" width="100%" alt="Nishant Iyer, Senior Data Analyst at Capital One. Bridging bytes and business.">
+    <img src="assets/header-dark.svg" width="100%" alt="Nishant Iyer, Senior Associate at Capital One. Bridging bytes and business.">
   </picture>
 
   <p>
@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm a Senior Data Analyst at Capital One, in the Refinance line of business. I started in biotechnology, wrote a dissertation that turned out to be mostly about data, and have spent the five years since turning messy data into dashboards, forecasts and models that people use to make decisions, across banking, consumer goods, higher education and media.
+I'm a Senior Associate at Capital One, in the Refinance line of business. I started in biotechnology, wrote a dissertation that turned out to be mostly about data, and have spent the five years since turning messy data into dashboards, forecasts and models that people use to make decisions, across banking, consumer goods, higher education and media.
 
 On the side I build end-to-end ML projects: real data, an honest evaluation, and an app you can click through.
 
