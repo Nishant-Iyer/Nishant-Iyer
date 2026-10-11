@@ -16,7 +16,7 @@
 
 I'm a Senior Associate at Capital One, in the Refinance line of business. I started in biotechnology, wrote a dissertation that turned out to be mostly about data, and have spent the five years since turning messy data into dashboards, forecasts and models that people use to make decisions, across banking, consumer goods, higher education and media.
 
-On the side I build end-to-end ML projects: real data, an honest evaluation, and an app you can click through.
+On the side I build end-to-end ML projects with real data and an interactive demo you can try.
 
 ## Featured projects
 
