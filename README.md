@@ -6,7 +6,7 @@
   </picture>
 
   <p>
-    <a href="https://www.konnectingnots.com"><img src="https://img.shields.io/badge/Portfolio-konnectingnots.com-0089B0?style=flat-square" alt="Portfolio"></a>
+    <a href="https://nishant-iyer.github.io"><img src="https://img.shields.io/badge/Portfolio-nishant--iyer.github.io-0089B0?style=flat-square" alt="Portfolio"></a>
     <a href="https://www.linkedin.com/in/nishantiyer/"><img src="https://img.shields.io/badge/LinkedIn-nishantiyer-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://www.kaggle.com/nustanishant"><img src="https://img.shields.io/badge/Kaggle-nustanishant-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   </p>
@@ -24,14 +24,14 @@ On the side I ship ML end to end, from data and model to API, deployment, monito
 
 | Project | What it does | Result |
 |---|---|---|
-| [Credit card fraud detection](https://github.com/Nishant-Iyer/Credit-Card-Fraud-Detection) | Autoencoder anomaly signal feeding an XGBoost/LightGBM stack, with the alert threshold set by business cost. Served with FastAPI on Docker and Kubernetes, with MLflow tracking and CI that retrains and parity-checks the model | **−75%** fraud cost vs. no model · 84.7% recall at 70.3% precision · [demo](https://www.konnectingnots.com/demos/fraud.html) |
-| [Global distribution center placement](https://github.com/Nishant-Iyer/Global-Distribution-Optimization-Center) | Chooses warehouse sites worldwide by road and sea distance, with capacity limits and running costs: K-Medoids seeds a MILP, refreshed on a schedule and served through FastAPI | **1,000** cities in 129 countries · optimal in 10 of 12 scenarios · [demo](https://www.konnectingnots.com/demos/distribution.html) |
-| [Wellbore geology prediction](https://github.com/Nishant-Iyer/Rogii-Wellbore-Geology-Prediction) | Kaggle: geology-constrained Viterbi path matching to predict rock-layer depth along horizontal wells | **12.4 ft** RMSE on held-out wells, 37% below baseline · [demo](https://www.konnectingnots.com/demos/wellbore.html) |
+| [Credit card fraud detection](https://github.com/Nishant-Iyer/Credit-Card-Fraud-Detection) | Autoencoder anomaly signal feeding an XGBoost/LightGBM stack, with the alert threshold set by business cost. Served with FastAPI on Docker and Kubernetes, with MLflow tracking and CI that retrains and parity-checks the model | **−75%** fraud cost vs. no model · 84.7% recall at 70.3% precision · [demo](https://nishant-iyer.github.io/demos/fraud.html) |
+| [Global distribution center placement](https://github.com/Nishant-Iyer/Global-Distribution-Optimization-Center) | Chooses warehouse sites worldwide by road and sea distance, with capacity limits and running costs: K-Medoids seeds a MILP, refreshed on a schedule and served through FastAPI | **1,000** cities in 129 countries · optimal in 10 of 12 scenarios · [demo](https://nishant-iyer.github.io/demos/distribution.html) |
+| [Wellbore geology prediction](https://github.com/Nishant-Iyer/Rogii-Wellbore-Geology-Prediction) | Kaggle: geology-constrained Viterbi path matching to predict rock-layer depth along horizontal wells | **12.4 ft** RMSE on held-out wells, 37% below baseline · [demo](https://nishant-iyer.github.io/demos/wellbore.html) |
 | [Airline satisfaction prediction](https://github.com/Nishant-Iyer/Airline-Satisfaction-Prediction) | Kaggle: LightGBM, XGBoost and CatBoost blend with route-level features, fold-safe target encoding and a model trained on the original survey | **0.9604** public-leaderboard AUC (0.9609 cross-validated), rank #925 → #577 |
 | [Bellion](https://github.com/Nishant-Iyer/OpenClaw-Bellion) | Private AI finance agent: daily briefings, budget checks and Q&A over Telegram, with the model running on my own machine | **On-device** model, AES-256 encrypted memory |
-| [NFL betting market analysis](https://github.com/Nishant-Iyer/NFL-Gambling-Market-Analysis) | Tests whether Over/Under lines can be beaten using weather, travel and team-form features with walk-forward backtesting | **55.0%** win rate vs. 52.4% break-even on 1,317 out-of-sample bets · [demo](https://www.konnectingnots.com/demos/nfl.html) |
+| [NFL betting market analysis](https://github.com/Nishant-Iyer/NFL-Gambling-Market-Analysis) | Tests whether Over/Under lines can be beaten using weather, travel and team-form features with walk-forward backtesting | **55.0%** win rate vs. 52.4% break-even on 1,317 out-of-sample bets · [demo](https://nishant-iyer.github.io/demos/nfl.html) |
 
-Each project has a full case study on my [portfolio](https://www.konnectingnots.com/#projects), and my competition work is on [Kaggle](https://www.kaggle.com/nustanishant).
+Each project has a full case study on my [portfolio](https://nishant-iyer.github.io/#projects), and my competition work is on [Kaggle](https://www.kaggle.com/nustanishant).
 
 ## Tools
 
@@ -52,4 +52,4 @@ Each project has a full case study on my [portfolio](https://www.konnectingnots.
 
 ## Get in touch
 
-The easiest way to reach me is [LinkedIn](https://www.linkedin.com/in/nishantiyer/) or email at contact@konnectingnots.com.
+The easiest way to reach me is [LinkedIn](https://www.linkedin.com/in/nishantiyer/) or email at itsnishantiyer+portfolio@gmail.com.
